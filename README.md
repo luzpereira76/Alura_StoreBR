@@ -6,6 +6,11 @@
 O senhor João possui 4 lojas e deseja vender uma delas para investir em um novo negócio.
 O propósito da análise é apoiá-lo, na tomada de decisão, apresentando qual foi a loja com o menor desempenho e recomendando qual loja deve ser vendida.  
 
+Com base nas análises realizadas, levando em consideração o faturamento total, avaliação de compra e valor médio do frete das lojas.
+
+A loja 1 embora tenha  recebido a menor avaliação de compra, o frete médio mais caro, se destacou por ter o maior faturamento em relação a loja 4 que teve nota de avaliação maior do que a loja 1 e o frete médio mais barato, porém com o menor faturamento entre as demais lojas.
+Deste forma recomenda-se que a loja 4 seja vendida.
+
 ## Estrutura do projeto e organização dos arquivos
 *	Notebook AluraStoreBr.ipynb, contendo o código da análise
 *	Gráficos
